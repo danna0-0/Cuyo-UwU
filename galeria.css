@@ -1,0 +1,33 @@
+.saludcuy{
+    width: 400px;
+    border-radius: 20px;
+    
+}
+
+.salud{
+    text-align: center;
+ 
+}
+
+body{
+    background-color: #007566;
+    margin: 20px;
+
+}
+.text{
+    text-align: justify;
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 40px;
+    font-size: large;
+
+}
+
+#regreso{
+    color: beige;
+    background-color: #8C503A;
+    font-size: medium;
+    border-radius: 15px;
+    padding: 10px;
+    text-decoration: none;
+}
